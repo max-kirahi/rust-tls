@@ -18,6 +18,25 @@ TLS Client and Server work will be added
 
 - None planned
 
+## [3.0.3] - 2025-01-06
+
+### Added
+
+- None
+
+### Fixed
+
+- TOML File had an edition field that I unnecessarily updated to 2025, now I know what it is for
+
+### Changed
+
+- None
+
+### Removed
+
+- None
+
+
 ## [3.0.2] - 2025-01-06
 
 ### Added
